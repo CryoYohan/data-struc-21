@@ -9,7 +9,7 @@ public class Main {
 		 * 	1.] Fix insertion method	
 		 *	
 		 */
-	}
+	} 
 }
 
 
