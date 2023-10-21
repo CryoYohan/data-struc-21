@@ -29,7 +29,7 @@ public class BasicArrOpBase {
 		}
 		do {
 			try {
-				System.out.println("-----PLEASE CHOOSE A TASK-----\n1.] INSERT || 2.] DELETE || 3.] SEARCH || 4.] UPDATE || 5.] DISPLAY VALUES || 6.] EXIT");
+				System.out.println("-----PLEASE CHOOSE A TASK-----\n1.] INSERT || 2.] DELETE || 3.] SEARCH || 4.] UPDATE || 5.] DISPLAY VALUES || 6.] SORT || 7.] EXIT");
 				input = sc.nextInt();
 				switch(input) {
 				case 1:
